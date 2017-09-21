@@ -14,14 +14,16 @@ position:position
 viewWidth:viewWidth
 cellHeight:cellHeight
 borderMargin:borderValue];
+
 //color of background view
 popView.backViewColor = [UIColor colorWithRed:44/255.0f green:44/255.0f blue:44/255.0f alpha:0.5];
+
 //show the shadow
 popView.hadShadow = hadShadow;
 
 //max number of cell number to show
-
 popView.maxCellNum = maxIndex;
+
 //show the pop view
 __weak typeof(self) weakSelf = self;
 [popView show:^(NSInteger count) {
