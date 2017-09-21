@@ -4,7 +4,7 @@ a pop view of TableView, help developer to create a selection view quickly.
 the pop view could suit the device window size with some data you can config it。
 
 Demo
-![image](https://github.com/BigBigPo/RJPopTableView/blob/master/demoShow.gif)
+![image](https://github.com/BigBigPo/RJPopTableView/blob/master/RJPopTableView/demoShow.gif)
 
 It's easy to use like this:
 ```
